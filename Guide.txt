@@ -18,6 +18,7 @@ oper wala sala setup local repository kyle tha ab nechy github ki repositry keyl
 git remote add origin (connect with remot depositry )
 
 git remote remove origin (for remove ad )
+git remote add origin https://github.com/asifgashkori2023/web_meta.git
 git push -u origin master (add local repositroy to web or remote repository)
 
 
