@@ -1,0 +1,25 @@
+
+
+For git hub
+Make an account on git hbub
+download Github SCAM
+Open file by right click by open with git bash (cd ~/Desktop) user this if directory need 
+
+git add -A (for add all file to directroy of git hub)
+git status (remember this fo directory)
+git add -A  (for add all file in the folder oout of git)
+git commit -m "work complete"   (for saving work)
+git config --global user.email "asifgashkory@gmail.com" (for congiguration git hub email )
+git config --global user.name"asifgashkory@gmail.com"   (for congiguration git hub name)
+git commit - m "work complete"   (again write for chek ...)
+git status (to check sttus k koi file peding to ni ?0
+oper wala sala setup local repository kyle tha ab nechy github ki repositry keylye step ye hain 
+
+git remote add origin (connect with remot depositry )
+
+git remote remove origin (for remove ad )
+git push -u origin master (add local repositroy to web or remote repository)
+
+
+
+
