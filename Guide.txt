@@ -5,7 +5,7 @@ Make an account on git hbub
 download Github SCAM
 Open file by right click by open with git bash (cd ~/Desktop) user this if directory need 
 
-git add -A (for add all file to directroy of git hub)
+
 git status (remember this fo directory)
 git add -A  (for add all file in the folder oout of git)
 git commit -m "work complete"   (for saving work)
@@ -20,6 +20,13 @@ git remote add origin (connect with remot depositry )
 git remote remove origin (for remove ad )
 git remote add origin https://github.com/asifgashkori2023/web_meta.git
 git push -u origin master (add local repositroy to web or remote repository)
+
+ager new file ya existing file ko update kr hota aur upload krna ho to 
+git status (to check changes)
+git commit - m "work complete"   (again write for chek ...)
+git add -A (for add all file to directroy of git hub)
+git push -u origin master
+
 
 
 
