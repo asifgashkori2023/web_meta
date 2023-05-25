@@ -15,16 +15,19 @@ git commit - m "work complete"   (again write for chek ...)
 git status (to check sttus k koi file peding to ni ?0
 oper wala sala setup local repository kyle tha ab nechy github ki repositry keylye step ye hain 
 
-git remote add origin (connect with remot depositry )
 
-git remote remove origin (for remove ad )
+
+git remote add origin (connect with remot depositry )
+git remote remove origin (ager ghalti sy add hogai hai to  )
 git remote add origin https://github.com/asifgashkori2023/web_meta.git
 git push -u origin master (add local repositroy to web or remote repository)
 
+
+
 ager new file ya existing file ko update kr hota aur upload krna ho to 
 git status (to check changes)
-git commit - m "work complete"   (again write for chek ...)
 git add -A (for add all file to directroy of git hub)
+git commit -m "upadte"   (again write for chek ...)
 git push -u origin master
 
 
